@@ -1,0 +1,1 @@
+![Here's a photo of myself, hairstyle not up to date.](Photo_Shanghai.jpg)
