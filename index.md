@@ -18,6 +18,7 @@ There simply too many! I can't really rank them, but here's a few examples:
 - Minecraft
 - Disco Elysium
 - etc.
+
 I particularly enjoy Fromsoftware games, here is a very subjective ranking of the ones I played:
 1. Bloodborne
 2. Dark Souls
@@ -25,7 +26,8 @@ I particularly enjoy Fromsoftware games, here is a very subjective ranking of th
 4. Sekiro
 5. Dark Souls III
 6. Dark Souls II
-##Hurray!
+
+## Hurray!
 You now know quite a bit about me!
 - [x] My name and current status
 - [x] My interests
