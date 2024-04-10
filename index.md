@@ -5,6 +5,7 @@ My name is **Peter Chang**<sub>AKA Peter Xiang-Pei Zhang</sub>, a current third 
 ### Favorite Quote
 Currently, my favorite quote is the following from Steve Jobs:
 >Stay hungry, stay foolish.
+
 ### My first code
 Here's a good old hello world python snippet I wrote back in grade 7:
 ```
